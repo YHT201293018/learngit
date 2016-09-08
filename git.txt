@@ -29,3 +29,4 @@ rm filename
 git rm filename
 git remote add origin git@github.com:YHT201293018/learngit.git
 git push -u origin master
+git push origin master
