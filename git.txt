@@ -1,0 +1,18 @@
+git help <verb>
+git config --list
+git config --global user.name ""
+git config --global user.email 
+mkdir learngit
+cd learngit
+pwd
+git init
+git add
+git commit -m <description>
+git diff
+git reset --hard HEAD^(~100)
+git status
+git reset --hard commit_id
+git log
+git log --pretty=oneline
+git reflog
+cat "filename"
