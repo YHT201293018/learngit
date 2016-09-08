@@ -16,3 +16,4 @@ git log
 git log --pretty=oneline
 git reflog
 cat "filename"
+git checkout -- filename
